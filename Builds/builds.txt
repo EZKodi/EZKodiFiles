@@ -1,6 +1,6 @@
 id="plugin.program.ezkodiwizard"
-version="5.1"
-zip="https://raw.githubusercontent.com/EZKodi/ezkodi.github.io/master/zips/plugin.program.ezkodiwizard/plugin.program.ezkodiwizard-5.1.zip"
+version="5.1.1"
+zip="https://raw.githubusercontent.com/EZKodi/ezkodi.github.io/master/zips/plugin.program.ezkodiwizard/plugin.program.ezkodiwizard-5.1.1.zip"
 
 name="EZKodiBuild Leia"
 version="18.6.0"
