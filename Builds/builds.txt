@@ -1,5 +1,5 @@
 id="plugin.program.ezkodiwizard"
-version="5.0.0"
+version="5.0.1"
 zip="https://raw.githubusercontent.com/EZKodi/ezkodi.github.io/master/zips/plugin.program.ezkodiwizard/plugin.program.ezkodiwizard-5.0.0.zip"
 
 name="EZKodiBuild Leia"
