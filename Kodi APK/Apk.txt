@@ -1,0 +1,7 @@
+name="Kodi 18.6"
+section="no"
+url="http://mirrors.kodi.tv/releases/android/arm/kodi-18.6-Leia-armeabi-v7a.apk"
+icon="https://github.com/EZKodi/EZKodiFiles/raw/master/Art/Other%20Art/kodiupdateicon.png" 
+fanart="https://github.com/EZKodi/EZKodiFiles/raw/master/Art/Leia%20Art/Fanart/220842.jpg"
+adult="No"
+description="Kodi 18.6 Update"
